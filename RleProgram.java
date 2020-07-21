@@ -1,7 +1,7 @@
 import java.util.Arrays;
 import java.util.Scanner;
 public class RleProgram {
-
+// Creator Zachary Speaks
     public static void main(String[] args){
         // Variables that will be used for loop control or throughout the loop
         int userMenuInput = 1;
